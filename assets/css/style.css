@@ -274,6 +274,12 @@ ul {
   z-index: 2;
 }
 
+a.service-card {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
 .icon-circle {
   width: 60px;
   height: 60px;
